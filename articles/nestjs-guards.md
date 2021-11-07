@@ -12,7 +12,7 @@ NestJSのバージョンが違ったり、記事の公開から長い時間が�
 :::
 
 > NestJS: v8.0.0
-> 翻訳元: [authentication.md](https://github.com/nestjs/docs.nestjs.com/blob/b0d2c893948863cc416032e417a1a94b1b8b4d01/content/security/authentication.md)
+> 翻訳元: [guards.md](https://github.com/nestjs/docs.nestjs.com/blob/b0d2c893948863cc416032e417a1a94b1b8b4d01/content/guards.md)
 > ライセンス: [MIT License](https://github.com/nestjs/docs.nestjs.com/blob/b0d2c893948863cc416032e417a1a94b1b8b4d01/LICENSE)
 
 # Guards
